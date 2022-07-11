@@ -49,7 +49,7 @@ django==3.2.14
     # via
     #   -c requirements/prod.txt
     #   django-extensions
-django-extensions==3.1.5
+django-extensions==3.2.0
     # via -r requirements/dev.in
 docopt==0.6.2
     # via coveralls
